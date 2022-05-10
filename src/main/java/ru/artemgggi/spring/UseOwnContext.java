@@ -1,6 +1,6 @@
 package ru.artemgggi.spring;
 
-public class UseContext {
+public class UseOwnContext {
 
     public static void main(String[] args) {
         Context context = new Context();
